@@ -1,0 +1,15 @@
+/* src/styles/App.css */
+body {
+  background-color: #79ba99;
+}
+
+h2 {
+  text-align: center;
+}
+
+.mt-5 {
+  margin-top: 3rem;
+}
+.bg-nav{
+  background-color: rgb(6, 85, 49)
+}
